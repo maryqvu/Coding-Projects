@@ -4,8 +4,6 @@ import java.util.*;
 public class practiceCode{
 	public static void main(String[]args){
 
-	System.out.println("hi");
-
 	String[][] everyone = {{"Mary", "event1", "20"}, {"Vi","event34", "30"}, {"Mary", "event2", "40"}, {"Vi", "event24", "40"}, 
 	{"Linh", "event12", "12"}, {"Linh", "event90", "90"}, {"Mary", "event34", "90"}, {"Vu", "event11", "90"}, {"Vi", "event99", "90"}, 
 	{"Vu", "event78", "90"}};
