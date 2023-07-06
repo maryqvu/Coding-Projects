@@ -1,3 +1,7 @@
+/*
+Reading a 2D String Array and returning a HashMap that provides the user both the total amount of times a client visited and made a transaction at a store + the total amount of money they spent
+*/
+
 import java.util.HashMap;
 import java.util.*;
 
