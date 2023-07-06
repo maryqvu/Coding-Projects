@@ -6,7 +6,7 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.AudioInputStream;
 
-public class CL3_Vu{
+public class pokemonPokedex{
 	static Scanner userInput = new Scanner(System.in);
 	static Scanner filterType = new Scanner(System.in);
 	static Scanner filterSelection = new Scanner(System.in);
