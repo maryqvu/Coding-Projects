@@ -1,18 +1,10 @@
-class Node{
-	private int data;
+// Write your code
+public class Node{
+	Object info;
 	Node next;
 
-	Node(){}
-	
-	Node(int n){
-		data = n;
-	}
-
-	public int getData(){
-		return data;
-	}
-
-	public void setData(int n){
-		data = n;
+	Node(Object info, Node next){
+		this.info = info;
+		this.next = next;
 	}
 }
