@@ -1,0 +1,5 @@
+Vesta	Olbers, H. W.	525.4	259.08	1807
+Ceres	Piazzi, G.	939.4	938.35	1801
+Interamnia	Cerulli, V.	332	35.00	1910
+Europa	Goldschmidt, H.	319	24.00	1858
+Pallas	Olbers, H. W.	511	204.00	1802
